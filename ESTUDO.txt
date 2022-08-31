@@ -1,0 +1,57 @@
+ 1- definir objetivo:(mostrar alo que pode ser feito)
+	- Quero criar um programa de ponto com o python
+
+ 2- Data de entrega
+	- dizer o que vai fazer e pra varias pessoas
+
+ 3- Consumir o conteudo por 1h, pelo menos por dia
+	- Fazer os exercicios, para praticar
+
+ 4- Documentar a evolução 
+	- Colocar o projeto no git+github
+	- Entregar partes do projeto(LinkedIn)
+	- Escrever como fez o programa
+
+ 5- Seguir isso por 1 mês
+
+
+*** Front-End ***
+	HTML
+	CSS
+	Java Script
+
+
+*** Back-End ***
+	Python
+	C
+	C++
+	C#
+	Ruby
+	Java
+	PHP
+
+			*** Git + Github ***
+
+
+
+
+
+
+
+Comando: git add .
+
+adiciona varios arquivos ao mesmo tempo na git bash
+
+ 
+
+Comando: git  commit -m "commit inicial"
+
+
+para criar novas versoes do proprio codigo
+
+
+continuar do minuto 14:00
+
+
+
+
