@@ -49,9 +49,38 @@ Comando: git  commit -m "commit inicial"
 
 para criar novas versoes do proprio codigo
 
+Comando: git remote add origin (https://github.com/Khaled-Klaus-Queiroz-de-Souza/projeto1_teste)
 
-continuar do minuto 14:00
+para adicionar uma pasta de origem na nuvem (juntamente com o link de onde vai ficar a pasta)
+
+Comando: git push
+
+para enviar o que esta sendo feito para o servidor da nuvem
 
 
+Comando git push --set-upstream origin master
+
+para identificar a parte principal na nuvem
+
+Comando: git reflog 
+
+para ver versões do codigo
+
+
+Comando: git reset --hard (id que quer resetar a versão)
+
+para resetar a versão do codigo tanto passado quanto futuro
+
+
+*** BRANCH ***
+
+Ramificações do codigo
+
+sempre ter uma Branch principal, pra atualizar as versoes
+importante ter varias BRANCH pra testes de continuidade, 
+nao utilizar a BRANCH principal para fazer testes**********
+Utilizar outras BRANCHs para fazer uma MARGE ---> que quer dizer, trazer so os codigos que funcionam para o BRANCH principal
+
+Continuar do minuto 28:00
 
 
